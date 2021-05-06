@@ -33,6 +33,6 @@ class Song
   end
 
   def song_with_artist
-    
+
   end
 end
